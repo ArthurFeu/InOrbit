@@ -7,8 +7,6 @@ Este projeto é um controlador de metas semanais, onde você pode adicionar meta
 
 ![image](https://github.com/user-attachments/assets/611bc676-119a-4459-ba1a-068a6ca0c03f)
 
-![image](https://github.com/user-attachments/assets/134edb1c-1df6-4c96-acf3-3728a8dee874)
-
 ## Conteúdos
 
 ### Back-end:
@@ -46,6 +44,8 @@ Este projeto é um controlador de metas semanais, onde você pode adicionar meta
 
 3. Instale as dependências:
 
+Instale-as na raiz, entre na pasta .\server e .\web e também execute o comando para garantir que todas as dependências estejam instaladas.
+
     ```bash
     npm install
     ```
@@ -65,6 +65,9 @@ Este projeto é um controlador de metas semanais, onde você pode adicionar meta
     ```
 
 Isso iniciará tanto o back-end quanto o front-end.
+
+
+![image](https://github.com/user-attachments/assets/134edb1c-1df6-4c96-acf3-3728a8dee874)
 
 ---
 
